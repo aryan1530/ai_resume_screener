@@ -1,0 +1,21 @@
+BOB MARTINEZ
+Java Backend Developer | bob.martinez@email.com
+
+SUMMARY
+Backend developer with 4 years of experience in Java Spring Boot and Oracle database management.
+
+TECHNICAL SKILLS
+Languages: Java, Python (beginner), SQL
+Frameworks: Spring Boot, Hibernate
+Databases: Oracle, MySQL
+Tools: Git, Maven, JIRA
+Cloud: Basic AWS knowledge
+
+EXPERIENCE
+Java Developer | Enterprise Solutions Ltd | 2020 - Present
+- Built microservices using Spring Boot deployed on AWS EC2
+- Designed relational database schemas with Oracle and MySQL
+- Wrote unit tests using JUnit and Mockito
+
+EDUCATION
+B.E. Information Technology | Mumbai University | 2019

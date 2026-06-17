@@ -1,0 +1,23 @@
+PRIYA SHARMA
+ML Engineer | priya.sharma@email.com
+
+SUMMARY
+Machine learning engineer with 3 years experience in Python ML systems and API development.
+
+TECHNICAL SKILLS
+Languages: Python, R, SQL
+ML Libraries: scikit-learn, TensorFlow, pandas, numpy
+Frameworks: Flask, FastAPI
+Databases: PostgreSQL, Redis
+Tools: Docker, Git, MLflow
+Cloud: AWS SageMaker, Lambda
+
+EXPERIENCE
+ML Engineer | AI Ventures | 2022 - Present
+- Built classification models using scikit-learn and XGBoost with pandas for feature engineering
+- Created Flask REST APIs to serve ML model predictions
+- Applied TF-IDF vectorization and NLP preprocessing for text classification
+- Followed test-driven development with pytest, 90%+ coverage
+
+EDUCATION
+M.Sc Data Science | BITS Pilani | 2021

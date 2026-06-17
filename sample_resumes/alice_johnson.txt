@@ -1,0 +1,23 @@
+ALICE JOHNSON
+Senior Python Developer | alice.johnson@email.com
+
+SUMMARY
+Python developer with 6 years of experience building scalable web applications and machine learning pipelines.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL
+Frameworks: Django, Flask, FastAPI, React
+ML/Data: scikit-learn, pandas, numpy, TensorFlow
+Databases: PostgreSQL, MySQL, Redis, MongoDB
+DevOps: Docker, Kubernetes, CI/CD, GitHub Actions
+Cloud: AWS (EC2, S3, Lambda), GCP
+
+EXPERIENCE
+Senior Python Developer | TechCorp Inc. | 2021 - Present
+- Built RESTful APIs using Flask and Django REST Framework serving 500K+ daily requests
+- Implemented machine learning models using scikit-learn and pandas
+- Containerized apps with Docker and Kubernetes on AWS EKS
+- Wrote unit and integration tests with pytest achieving 95%+ code coverage
+
+EDUCATION
+B.Tech Computer Science | IIT Delhi | 2018
