@@ -363,6 +363,3 @@ This project provided practical experience in:
 This project demonstrates how Artificial Intelligence and Natural Language Processing can be applied to streamline recruitment workflows. By automating resume screening and candidate ranking, the system helps reduce manual effort, improve efficiency, and support more informed hiring decisions.
 
 Beyond solving a real-world problem, the project also emphasizes clean architecture, maintainable code, scalability, and industry-standard development practices.
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-Feedback, suggestions, and contributions are always welcome.
