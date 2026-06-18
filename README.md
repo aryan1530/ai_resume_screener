@@ -2,9 +2,9 @@
 
 An intelligent resume screening and candidate ranking platform that helps recruiters quickly identify the most suitable candidates for a job role. The system uses Natural Language Processing (NLP) and Machine Learning techniques to analyze resumes, compare them against job descriptions, and generate ranked results based on relevance and skill matching.
 
-Live Demo → ai-resume-screener-hazel-gamma.vercel.app
+Live Demo → https://ai-resume-screener-hazel-gamma.vercel.app
 
-Backend API → ai-resume-screener-api-x734.onrender.com/api/health
+Backend API → https://ai-resume-screener-api-x734.onrender.com/api/health
 
 ## Project Overview
 
